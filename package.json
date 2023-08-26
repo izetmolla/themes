@@ -1,0 +1,14 @@
+{
+  "name": "izetmolla-themes",
+  "version": "1.0.0",
+  "description": "A simple package for integrating SCSS styles into React apps.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": ["react", "scss", "styles", "package"],
+  "author": "Izet Molla",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
